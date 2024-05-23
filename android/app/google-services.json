@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366063218377",
+    "project_id": "blabble-54eaf",
+    "storage_bucket": "blabble-54eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366063218377:android:d5ffe421a28f4c29fb2718",
+        "android_client_info": {
+          "package_name": "com.mota.blabble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366063218377-mtlt53467s3455t442vtnad8a9ahtqgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVyxVa6ygfh7RXDkrXSGq11rDSrk11Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366063218377-mtlt53467s3455t442vtnad8a9ahtqgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
